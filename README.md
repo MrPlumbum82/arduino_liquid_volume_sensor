@@ -1,2 +1,4 @@
 # Arduino Liquid Volume Sensor
-We wanted to create an automated liquid volume sensor that would use a pressure sensor to calculate the volume of a specific liquid in any straight walled container. 
+This Arduino Project was my summer project during my freshman and sophmore years in college. 
+
+![Poster](https://github.com/MrPlumbum82/arduino_liquid_volume_sensor/blob/master/img/Arduino-based%20Liquid%20Volume%20Sensor%20Project%2040w%2032h.jpg)
